@@ -16,7 +16,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
   
 ## Trabajos Prácticos
 - Intro. a la RI ([link](https://docs.google.com/document/d/1pU-hoPNmC-z0fyoN8jbSQ3pHd0ArQfxX4sQGdu7I0U0/edit?tab=t.0))
-- Análisis de Texto
+- Análisis de Texto ([link](https://docs.google.com/document/d/1bzO33WAt4n-Kz0x8nQdtiG-g9C8LitBs4MbZmPN9_S8/edit?usp=sharing))
 - Modelos de RI - Parte 2
 - Estructuras de Datos y Recuperación
 - RI en la Web
