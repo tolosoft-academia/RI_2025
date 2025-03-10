@@ -15,7 +15,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Introducción al Proc. del Lenguaje Natural (c/aplicaciones)
   
 ## Trabajos Prácticos
-- [Intro. a la RI](https://docs.google.com/document/d/1pU-hoPNmC-z0fyoN8jbSQ3pHd0ArQfxX4sQGdu7I0U0/edit?tab=t.0)
+- Intro. a la RI ([link](https://docs.google.com/document/d/1pU-hoPNmC-z0fyoN8jbSQ3pHd0ArQfxX4sQGdu7I0U0/edit?tab=t.0))
 - Análisis de Texto
 - Modelos de RI - Parte 2
 - Estructuras de Datos y Recuperación
