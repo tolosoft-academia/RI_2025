@@ -3,7 +3,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 
 ## Temas y Guías de Clase
 - Introducción y Análisis de Texto ([link](https://docs.google.com/document/d/1SES7tYIFQf3QaqQncEG5IzsYdynzhV1jCxcnWTt0pN0/edit?tab=t.0))
-- Modelos Clásicos de RI
+- Modelos Clásicos de RI ([link](https://docs.google.com/document/d/1O4vjcLlax_draTQlAL4ZpNBU4li7ROCOJxBPtG6vnN0/edit?tab=t.0))
 - Evaluación de la Recuperación
 - Modelos de Lenguaje para RI
 - Estructuras de Datos para RI/Indexación
