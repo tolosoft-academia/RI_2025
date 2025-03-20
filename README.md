@@ -25,6 +25,6 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Proyecto Final de Curso
 
 ## Datos de Prueba
-- Colección Vaswani ([link]([https://github.com/tolosoft-academia/RI_2025/blob/main/data/vaswani.tar.gz?raw=true](https://github.com/tolosoft-academia/RI_2025/raw/refs/heads/main/data/vaswani.tar.gz))
+- Colección Vaswani ([link](https://github.com/tolosoft-academia/RI_2025/blob/main/data/vaswani.tar.gz?raw=true](https://github.com/tolosoft-academia/RI_2025/raw/refs/heads/main/data/vaswani.tar.gz))
 - Colección RI-tknz-data
 - Dump10k, Queries
