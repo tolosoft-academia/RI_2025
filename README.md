@@ -24,7 +24,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Recuperación sobre Representaciones Densas
 - Proyecto Final de Curso
 
-## Datos de Prueba
-- Colección Vaswani ([link](https://github.com/tolosoft-academia/RI_2025/tree/main/data))
+## Datos de Prueba ([link](https://github.com/tolosoft-academia/RI_2025/tree/main/data))
+- Colección Vaswani 
 - Colección RI-tknz-data
 - Dump10k, Queries
