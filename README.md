@@ -7,7 +7,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Evaluación de la Recuperación ([link](https://docs.google.com/document/d/1F-668kQCobqNXFdnIBPUOgNtLEYM4jP4XLXrLaHH8Es/edit?tab=t.0))
 - Modelos de Lenguaje para RI ([link](https://docs.google.com/document/d/1r3VFHHBF2YKi9OyXh9A0TH29W20HgieFoFkkOhTECS8/edit?tab=t.0))
 - Estructuras de Datos para RI/Indexación ([link](https://docs.google.com/document/d/19_7ttgZcRpECVdZOnWlgxYLgIN87awAm3yd_SwHn878/edit?tab=t.0))
-- Recuperación DAAT-TAAT - Algoritmos Top-k
+- Recuperación DAAT-TAAT - Algoritmos Top-k ([link](https://docs.google.com/document/d/1znwxic_l-65om2TdqFlRVz_ZeA1YQU0t3oC0Mpat6-Q/edit?tab=t.0))
 - Compresión del Índice
 - Arquitectura de la Web + Intro a Máquinas de Búsqueda
 - Crawling - Ranking
