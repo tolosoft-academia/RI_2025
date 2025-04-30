@@ -19,7 +19,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Intro. a la RI ([link](https://docs.google.com/document/d/1pU-hoPNmC-z0fyoN8jbSQ3pHd0ArQfxX4sQGdu7I0U0/edit?tab=t.0))
 - Análisis de Texto ([link](https://docs.google.com/document/d/1bzO33WAt4n-Kz0x8nQdtiG-g9C8LitBs4MbZmPN9_S8/edit?usp=sharing))
 - Modelos de RI ([link](https://docs.google.com/document/d/1FVAt2JsOovzilESMyye_oO2TVX0kUs_CqoSTPX4S55o/edit?tab=t.0))
-- Modelos de Lenguaje
+- Modelos de Lenguaje ([link](https://docs.google.com/document/d/1vGSZwCxPtW1J97NCU-XrunVdyoeHm3bcqN6nl1gazkk/edit?tab=t.0))
 - Estructuras de Datos y Recuperación
 - RI en la Web
 - Recuperación sobre Representaciones Densas
