@@ -9,8 +9,8 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Estructuras de Datos para RI/Indexación ([link](https://docs.google.com/document/d/19_7ttgZcRpECVdZOnWlgxYLgIN87awAm3yd_SwHn878/edit?tab=t.0))
 - Recuperación DAAT-TAAT - Algoritmos Top-k ([link](https://docs.google.com/document/d/1znwxic_l-65om2TdqFlRVz_ZeA1YQU0t3oC0Mpat6-Q/edit?tab=t.0))
 - Compresión del Índice ([link](https://docs.google.com/document/d/1ZPfDV8eHMG3C4WwZD-GKmHW3GhYygGI0pv1x43RsOKs/edit?tab=t.0))
-- Arquitectura de la Web + Intro a Máquinas de Búsqueda
-- Crawling - Ranking
+- Arquitectura de la Web + Intro a Máquinas de Búsqueda ([link](https://docs.google.com/document/d/1ZtBNLJshfAuwbasjt0wsS2u4jZr33su56igImqjsC8c/edit?tab=t.0))
+- Crawling - Ranking  ([link](https://docs.google.com/document/d/1ZkZHNyy7FM4h31M8LLoJTopqo5kMgu-ixL_Wcmxwa34/edit?tab=t.0))  ([link](https://docs.google.com/document/d/1t_Pc0xJE1fOthM3-bz-U4dq_aJXsFa3xMx6LI14_bc0/edit?tab=t.0))
 - Representaciones densas y recuperación
 - Introducción al Proc. del Lenguaje Natural (c/aplicaciones)
   
