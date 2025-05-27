@@ -21,7 +21,7 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Modelos de RI ([link](https://docs.google.com/document/d/1FVAt2JsOovzilESMyye_oO2TVX0kUs_CqoSTPX4S55o/edit?tab=t.0))
 - Modelos de Lenguaje ([link](https://docs.google.com/document/d/1vGSZwCxPtW1J97NCU-XrunVdyoeHm3bcqN6nl1gazkk/edit?tab=t.0))
 - Estructuras de Datos y Recuperación ([link](https://docs.google.com/document/d/1jlAL9DJeRFxktcEh6JXmX2FL93RVFNCc6Vxpe3Zj7D4/edit?tab=t.0))
-- RI en la Web
+- RI en la Web ([link](https://docs.google.com/document/d/1LPk7cVfwmw4SzKmYzPuheE9-er9c3ylyjzRQEKRdNTw/edit?tab=t.0))
 - Recuperación sobre Representaciones Densas
 - Proyecto Final de Curso
 
