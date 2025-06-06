@@ -22,8 +22,8 @@ Repo del curso 2025 de "Recuperación de Información" (UNLu)
 - Modelos de Lenguaje ([link](https://docs.google.com/document/d/1vGSZwCxPtW1J97NCU-XrunVdyoeHm3bcqN6nl1gazkk/edit?tab=t.0))
 - Estructuras de Datos y Recuperación ([link](https://docs.google.com/document/d/1jlAL9DJeRFxktcEh6JXmX2FL93RVFNCc6Vxpe3Zj7D4/edit?tab=t.0))
 - RI en la Web ([link](https://docs.google.com/document/d/1LPk7cVfwmw4SzKmYzPuheE9-er9c3ylyjzRQEKRdNTw/edit?tab=t.0))
-- Recuperación sobre Representaciones Densas
-- Proyecto Final de Curso
+- Presentación de Paper ([link](https://docs.google.com/document/d/1mIlYwP2dKGjS_cyXEtN2VcGt-kjsPtvsQi87A_KG0E8/edit?tab=t.0))
+- Proyecto Final de Curso ([link](https://docs.google.com/document/d/1dSmy-PGPgR60dnT3VrmAGK-o4oL0-DN9fdRyV4qJRZs/edit?tab=t.0))
 
 ## Datos de Prueba 
 - Colección Vaswani ([link](https://github.com/tolosoft-academia/RI_2025/tree/main/data)) 
